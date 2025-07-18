@@ -1,0 +1,6 @@
+{
+  "name": "MoneyMind – Smart Expense Organizer",
+  "description": "An intelligent expense tracker that uses AI to analyze receipts, categorize spending, and provide financial insights. Users can manually add transactions, upload bills for automatic data entry, view their transaction history, and visualize their financial habits through charts.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
